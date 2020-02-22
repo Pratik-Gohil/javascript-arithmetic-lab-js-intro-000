@@ -14,7 +14,7 @@ function increment(n) {
   return n++
 }
 function decrement(n) {
-  return n--
+  return n
 }
 function makeInt(n) {
   return parseInt(n, 10)
